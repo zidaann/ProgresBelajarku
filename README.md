@@ -17,4 +17,4 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
   * Belajar control flow dalam Java, seperti perulangan dan percabangan.
 
-  * Belajar tipe data koleksi, seperti list, set, dan map.
+  * Belajar tipe data koleksi, seperti list, set, dan map. 
