@@ -36,6 +36,6 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
   * Mengerjakan ujian akhir untuk menilai kemahiran diri.
   
   
-              DAFTAR SAHAM POTENSI BAGGER
-======================================================
-* BBCA
+  
+# DAFTAR SAHAM BAGGER
+  * BBCA
